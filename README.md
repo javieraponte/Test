@@ -3,7 +3,7 @@
 I was having trouble uploading to GitHub.
 
 -- Problem:
-The IDE does not upload anything, it stays in a loop asking for the address of the repository.
+The IDE doesn't upload anything, it stays in a loop asking for the address of the repository.
 
 -- First solution:
 Delete the TFA.
